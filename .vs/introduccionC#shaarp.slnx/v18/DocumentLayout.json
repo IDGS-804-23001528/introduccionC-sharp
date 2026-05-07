@@ -3,43 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\models\\peliculasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\models\\peliculasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\views\\prueba\\suma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\prueba\\suma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\prueba\\suma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\views\\prueba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\prueba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\prueba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,19 +63,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PeliculasService.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\PeliculasService.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Models\\PeliculasService.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\PeliculasService.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Models\\PeliculasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:14:03.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Pelicula.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Models\\Pelicula.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:06:48.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\App_Start\\RouteConfig.cs",
               "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "introduccionC#shaarp\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-01T05:31:19.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Suma.cshtml",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
@@ -75,12 +109,11 @@
               "RelativeToolTip": "introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:33:32.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T05:33:32.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
@@ -88,12 +121,11 @@
               "RelativeToolTip": "introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:33:29.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T05:33:29.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Home\\Index.cshtml",
@@ -101,12 +133,11 @@
               "RelativeToolTip": "introduccionC#shaarp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:33:14.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T05:33:14.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
@@ -114,12 +145,11 @@
               "RelativeToolTip": "introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:32:59.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T05:32:59.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Home\\About.cshtml",
@@ -127,12 +157,11 @@
               "RelativeToolTip": "introduccionC#shaarp\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:32:43.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T05:32:43.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
@@ -140,12 +169,11 @@
               "RelativeToolTip": "introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T05:31:09.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T05:31:09.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Controllers\\HomeController.cs",
@@ -153,12 +181,11 @@
               "RelativeToolTip": "introduccionC#shaarp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T05:31:40.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T05:31:40.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PruebaController.cs",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\PruebaController.cs",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Controllers\\PruebaController.cs",
@@ -166,12 +193,11 @@
               "RelativeToolTip": "introduccionC#shaarp\\Controllers\\PruebaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T05:32:13.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T05:32:13.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Global.asax.cs",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Global.asax.cs",
@@ -179,8 +205,7 @@
               "RelativeToolTip": "introduccionC#shaarp\\Global.asax.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAIAwwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T05:35:32.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T05:35:32.232Z"
             }
           ]
         }

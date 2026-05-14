@@ -1,0 +1,38 @@
+@model introduccionC_shaarp.Models.Distancia
+@{
+    ViewBag.Title = "Distancia";
+}
+
+<h2>Distancia</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <form action="/Distancia/Distancia" method="post">
+
+                <h4>Punto 1</h4>
+                <label for="X1"> Coordenada X1: </label>
+                <input type="text" name="X1" value="" />
+                <br />
+                <label for="Y1"> Coordenada Y1: </label>
+                <input type="text" name="Y1" value="" />
+                <br />
+
+                <h4>Punto 2</h4>
+                <label for="X2"> Coordenada X2: </label>
+                <input type="text" name="X2" value="" />
+                <br />
+                <label for="Y2"> Coordenada Y2: </label>
+                <input type="text" name="Y2" value="" />
+                <br />
+
+                <input type="submit" value="Calcular Distancia" />
+            </form>
+        </div>
+
+        <div class="col-lg-6">
+            <br />
+            <h1>La distancia es: @Html.DisplayFor(model => model.Resultado)</h1>
+        </div>
+    </div>
+</div>

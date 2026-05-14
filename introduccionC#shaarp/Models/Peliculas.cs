@@ -5,7 +5,7 @@ using System.Web;
 
 namespace introduccionC_shaarp.Models
 {
-    public class Pelicula
+    public class Peliculas
     {
         public string Titulo { get; set; }
 

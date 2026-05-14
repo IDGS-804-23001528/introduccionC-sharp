@@ -1,0 +1,33 @@
+@model introduccionC_shaarp.Models.Multiplicacion
+@{
+    ViewBag.Title = "Multiplicar";
+}
+
+<h2>Multiplicar</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <form action="/Multiplicacion/Multiplicacion" method="post">
+
+                <label for="Num1"> Número 1 (a): </label>
+                <input type="text" name="Num1" value="" />
+                <br />
+
+                <label for="Num2"> Número 2 (b): </label>
+                <input type="text" name="Num2" value="" />
+                <br />
+
+                <input type="submit" value="Calcular Multiplicación" />
+            </form>
+        </div>
+
+        <div>
+            <br />
+            @if (Model != null)
+            {
+                <h1>El resultado es: @Html.DisplayFor(model => model.Proceso)</h1>
+            }
+        </div>
+    </div>
+</div>

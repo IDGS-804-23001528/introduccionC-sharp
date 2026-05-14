@@ -3,7 +3,75 @@
   "WorkspaceRootPath": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\distancia\\distancia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\distancia\\distancia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|c:\\users\\16sep\\source\\repos\\introduccionc#shaarp\\introduccionc#shaarp\\models\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\models\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\models\\operasbas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\models\\operasbas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\models\\distancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\models\\distancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\controllers\\distanciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\controllers\\distanciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\controllers\\multiplicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\controllers\\multiplicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\multiplicacion\\multiplicacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\multiplicacion\\multiplicacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\prueba\\calculos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\prueba\\calculos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\models\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\models\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\models\\practica1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\models\\practica1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\models\\practica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\models\\practica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\service\\peliculasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\service\\peliculasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\prueba\\muestrapeliculas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\prueba\\muestrapeliculas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,28 +87,12 @@
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\prueba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionc#shaarp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0897DE4-5695-4539-957F-2AA3FCD304D9}|introduccionC#shaarp\\introduccionC#shaarp.csproj|solutionrelative:introduccionc#shaarp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,96 +102,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "introduccionC#shaarp\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "introduccionC#shaarp\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Multiplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Multiplicacion.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Models\\Multiplicacion.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Multiplicacion.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Models\\Multiplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T05:31:19.798Z",
+              "WhenOpened": "2026-05-13T01:52:27.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Suma.cshtml",
-              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
-              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
-              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
-              "RelativeToolTip": "introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Distancia.cshtml",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Distancia\\Distancia.cshtml",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Distancia\\Distancia.cshtml",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Distancia\\Distancia.cshtml",
+              "RelativeToolTip": "introduccionC#shaarp\\Views\\Distancia\\Distancia.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:33:32.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
-              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
-              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
-              "RelativeToolTip": "introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:33:29.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "introduccionC#shaarp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:33:14.135Z"
+              "WhenOpened": "2026-05-13T01:49:42.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:32:59.866Z"
+              "Title": "MultiplicacionController.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\MultiplicacionController.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Controllers\\MultiplicacionController.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\MultiplicacionController.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Controllers\\MultiplicacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:20:13.276Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "introduccionC#shaarp\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-01T05:32:43.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DistanciaController.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\DistanciaController.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Controllers\\DistanciaController.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\DistanciaController.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Controllers\\DistanciaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T05:31:09.698Z"
+              "WhenOpened": "2026-05-13T01:46:24.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "OperasBas.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\OperasBas.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Models\\OperasBas.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\OperasBas.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Models\\OperasBas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:26:01.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Distancia.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Distancia.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Models\\Distancia.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Distancia.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Models\\Distancia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T01:47:14.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Multiplicacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Multiplicacion\\Multiplicacion.cshtml",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Multiplicacion\\Multiplicacion.cshtml",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Multiplicacion\\Multiplicacion.cshtml",
+              "RelativeToolTip": "introduccionC#shaarp\\Views\\Multiplicacion\\Multiplicacion.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T01:51:48.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PruebaController.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\PruebaController.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Controllers\\PruebaController.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\PruebaController.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Controllers\\PruebaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T05:32:13.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Controllers\\HomeController.cs",
@@ -151,19 +216,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PruebaController.cs",
-              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\PruebaController.cs",
-              "RelativeDocumentMoniker": "introduccionC#shaarp\\Controllers\\PruebaController.cs",
-              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Controllers\\PruebaController.cs",
-              "RelativeToolTip": "introduccionC#shaarp\\Controllers\\PruebaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T05:32:13.189Z"
+              "DocumentIndex": 9,
+              "Title": "Calculos.cshtml",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Calculos.cshtml",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\prueba\\Calculos.cshtml",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Calculos.cshtml",
+              "RelativeToolTip": "introduccionC#shaarp\\Views\\prueba\\Calculos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T18:24:58.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "Peliculas.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Peliculas.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Models\\Peliculas.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Peliculas.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Models\\Peliculas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:06:48.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Practica1.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Practica1.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Models\\Practica1.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Practica1.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Models\\Practica1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T23:25:43.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Practica2.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Practica2.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Models\\Practica2.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Models\\Practica2.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Models\\Practica2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T23:26:31.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PeliculasService.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Service\\PeliculasService.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Service\\PeliculasService.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Service\\PeliculasService.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\Service\\PeliculasService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T23:27:11.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "introduccionC#shaarp\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T05:32:59.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "introduccionC#shaarp\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T05:32:43.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MuestraPeliculas.cshtml",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\MuestraPeliculas.cshtml",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\prueba\\MuestraPeliculas.cshtml",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\MuestraPeliculas.cshtml",
+              "RelativeToolTip": "introduccionC#shaarp\\Views\\prueba\\MuestraPeliculas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T23:46:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Suma.cshtml",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
+              "RelativeToolTip": "introduccionC#shaarp\\Views\\prueba\\Suma.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T05:33:32.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
+              "RelativeToolTip": "introduccionC#shaarp\\Views\\prueba\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T05:33:29.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "introduccionC#shaarp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T05:33:14.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T05:31:19.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "introduccionC#shaarp\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T05:31:09.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\16sep\\source\\repos\\introduccionC#shaarp\\introduccionC#shaarp\\Global.asax.cs",
               "RelativeDocumentMoniker": "introduccionC#shaarp\\Global.asax.cs",
